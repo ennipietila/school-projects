@@ -1,0 +1,18 @@
+The player is standing in the lobby of a mall.
+In order to win this game, you first have to go up to the second floor and get your wallet.
+Then you come back down and enter the bank (north), where you have to withdraw some cash so you can buy the gift.
+When you have the cash, go back to the lobby and from there, enter the gift shop (east). 
+Here you can buy the gift. All you need to do now is find your way to the parking lot, and the game is completed.
+
+Steps to win the game:
+
+go up
+get wallet
+go down
+go north
+withdraw
+go south
+go east
+buy gift
+go west
+go south
